@@ -1,0 +1,6 @@
+[27-May-2021 23:00:47 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/mmctegal/public_html/application/libraries/Pdf.php on line 5
+[27-May-2021 23:00:48 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/mmctegal/public_html/application/libraries/Pdf.php on line 5
+[27-May-2021 23:00:49 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/mmctegal/public_html/application/libraries/Pdf.php on line 5
+[18-Aug-2021 21:29:20 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/mmctegal/public_html/application/third_party/dompdf/include/frame_factory.cls.php on line 82
+[18-Aug-2021 21:30:12 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/mmctegal/public_html/application/third_party/dompdf/include/style.cls.php on line 488
+[18-Aug-2021 21:30:21 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/mmctegal/public_html/application/third_party/dompdf/include/block_renderer.cls.php on line 113
